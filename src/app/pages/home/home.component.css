@@ -1,3 +1,9 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
 .articles {
     display: flex;
     flex-direction: row;

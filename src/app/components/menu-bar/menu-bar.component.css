@@ -1,0 +1,8 @@
+.menu-container > ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+
+ 
