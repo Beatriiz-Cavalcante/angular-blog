@@ -1,0 +1,28 @@
+.content-container {
+    border: 1px solid blue;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.content-cover {
+    margin-top: 1rem;
+    border: 1px solid orchid;
+}
+
+.content-cover >img {
+    width: 400px;
+    height: 250px;
+    min-width: 400px;
+}
+
+.content-text {
+    margin-top: 1rem;
+}
+.content-text > p {
+    color: gray;
+}
